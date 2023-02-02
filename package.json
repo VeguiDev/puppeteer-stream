@@ -6,7 +6,7 @@
 	"types": "dist/PuppeteerStream.d.ts",
 	"scripts": {
 		"build": "tsc -b .",
-		"postinstall": "npm run build"
+		"postinstall": "tsc"
 	},
 	"keywords": [
 		"puppeteer",
