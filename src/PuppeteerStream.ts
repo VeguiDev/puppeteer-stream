@@ -142,7 +142,8 @@ export type BrowserMimeType =
 	| "video/webm;codecs=vp8,vp9,opus"
 	| "audio/webm"
 	| "audio/webm;codecs=opus"
-	| "audio/webm;codecs=pcm";
+	| "audio/webm;codecs=pcm"
+	| string;
 
 export interface getStreamOptions {
 	audio: boolean;
