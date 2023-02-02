@@ -17,10 +17,7 @@
 		"screenshot",
 		"recorder"
 	],
-	"author": "Flam3rboy",
-	"repository": {
-		"url": "https://github.com/Flam3rboy/puppeteer-stream"
-	},
+	"author": "Flam3rboy edited by VeguiDev",
 	"license": "MIT",
 	"dependencies": {
 		"puppeteer-core": "^19.2.2",
